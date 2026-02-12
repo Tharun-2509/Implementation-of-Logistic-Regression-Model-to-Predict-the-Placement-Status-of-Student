@@ -64,7 +64,8 @@ print("\nClassification Report:\n", classification_report(y_test, y_pred))
 ```
 
 ## Output:
-![Uploading image.png…]()
+<img width="1417" height="360" alt="image" src="https://github.com/user-attachments/assets/02809da1-50ff-4a6c-90aa-5d2b289c40cc" />
+
 
 
 
